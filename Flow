@@ -1,0 +1,15 @@
+Setup Kafka:
+Create EC2 instance in AWS 
+Download the pem file and in the instance download Java 
+Install Java
+Start zookeeper
+Start Kafka Server 
+Create Producer
+CreATE consumer
+
+Python:
+Connect python to Kafka using kafkaProducer and kafkaConsumer
+
+Push the data to S3 using boto
+Use Crawler and push the data into the database
+Perform queries using Athena 
